@@ -1,0 +1,15 @@
+
+## To Add
+### Frontend
+
+* Add i18n
+* Improve theming
+* Add basic UI components for fast development (ant design/material ui/blueprint ui)
+* Add basic animation libary (react-motion/react-spring)
+* Add basic grid system
+* Test platform (jest+enzyme)
+* Enabled PWA
+* Electron ?
+* Storybook
+* Typescript for React
+* REDUX TOOLKIT

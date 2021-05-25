@@ -1,0 +1,26 @@
+{
+  "css.validate": true,
+  "scss.validate": true,
+  "less.validate": true,
+  "[javascript, typescript]": {
+    "editor.formatOnSave": false
+  },
+  "prettier.disableLanguages": [
+    "js",
+    "ts"
+  ],
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "formik",
+    "scroller"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.eol": "\n",
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true
+  }
+}

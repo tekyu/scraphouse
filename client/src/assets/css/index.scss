@@ -1,0 +1,38 @@
+@import "./palette";
+
+// @import url("https://fonts.googleapis.com/css?family=Lobster|Sacramento|Poiret+One");
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500");
+// @import url("https://fonts.googleapis.com/css?family=Playfair+Display:600");
+// @import url("https://fonts.googleapis.com/css?family=Hammersmith+One:300,400,500");
+// @import url("https://fonts.googleapis.com/css?family=Nothing+You+Could+Do|Shadows+Into+Light");
+// @import url("https://fonts.googleapis.com/css?family=Catamaran|Expletus+Sans|Mukta|Pavanam&display=swap");
+@import "./vendor/dropdown.css";
+
+@import "~react-toastify/dist/ReactToastify.min.css";
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+@import "./overrides.scss";
+
+body {
+  font-size: 16px;
+  // font-family: "Hammersmith One";
+  font-family: "Fira Sans";
+  // background: #ffffef;
+  // color: #000;
+
+  min-height: 100vh; //TEMP
+}
+#root {
+  min-height: 100vh; //TEMP
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: inherit;
+  font-size: inherit;
+}
