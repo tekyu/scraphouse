@@ -52,6 +52,7 @@
     "moment": "^2.29.1",
     "nanoid": "^3.1.18",
     "node-sass": "^4.14.1",
+    "npm": "^7.5.4",
     "polished": "^4.0.5",
     "pretty-ms": "^7.0.1",
     "prop-types": "^15.7.2",
@@ -94,6 +95,7 @@
     "cross-env": "^7.0.2",
     "eslint": "^7.27.0",
     "eslint-config-airbnb": "^18.2.1",
+    "eslint-import-resolver-alias": "^1.1.2",
     "eslint-plugin-import": "^2.23.3",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.23.2",
@@ -102,7 +104,6 @@
     "react-app-rewired": "^2.1.6",
     "stylelint": "^13.8.0",
     "stylelint-config-prettier": "^8.0.2",
-    "stylelint-prettier": "^1.1.2",
-    "eslint-import-resolver-alias": "^1.1.2"
+    "stylelint-prettier": "^1.1.2"
   }
 }
